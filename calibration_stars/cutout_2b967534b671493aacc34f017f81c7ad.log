@@ -1,0 +1,19 @@
+2021-04-14 14:21:45,297 - 0 - INFO     - Complete positions table (rank=0):
+           RA        DEC  XSIZE  YSIZE COLORS_FITS RGB_STIFF_COLORS RGB_LUPTON_COLORS  MAKE_FITS  MAKE_RGB_LUPTON  MAKE_RGB_STIFF  DISCARD_FITS_FILES POSITION_TYPE  RA_ADJUSTED FILES TILEDIR      TILENAME SEXAGECIMAL  RGB_MINIMUM  RGB_STRETCH  RGB_ASINH  ALPHAWIN_J2000  DELTAWIN_J2000
+2  316.102436 -46.738196    0.5    0.5           i              gri               gri       True            False           False               False         coord    43.897564    []          DES2105-4623                      1.0         50.0       10.0      316.102436      -46.738196
+3  320.071929 -57.211821    0.5    0.5           i              gri               gri       True            False           False               False         coord    39.928071    []          DES2118-5705                      1.0         50.0       10.0      320.071929      -57.211821
+1  324.465129 -56.393361    0.5    0.5           i              gri               gri       True            False           False               False         coord    35.534871    []          DES2135-5622                      1.0         50.0       10.0      324.465129      -56.393361
+0  327.098173 -65.112821    0.5    0.5           i              gri               gri       True            False           False               False         coord    32.901827    []          DES2149-6456                      1.0         50.0       10.0      327.098173      -65.112821
+4  326.738338 -64.671998    0.5    0.5           i              gri               gri       True            False           False               False         coord    33.261662    []          DES2149-6456                      1.0         50.0       10.0      326.738338      -64.671998
+2021-04-14 14:21:45,480 - 0 - INFO     - Querying took (s): 0.83
+2021-04-14 14:21:45,490 - 0 - INFO     - Table subset (rank=0):
+            RA        DEC  XSIZE  YSIZE COLORS_FITS RGB_STIFF_COLORS RGB_LUPTON_COLORS  MAKE_FITS  MAKE_RGB_LUPTON  MAKE_RGB_STIFF  DISCARD_FITS_FILES POSITION_TYPE  RA_ADJUSTED FILES TILEDIR      TILENAME SEXAGECIMAL  RGB_MINIMUM  RGB_STRETCH  RGB_ASINH  ALPHAWIN_J2000  DELTAWIN_J2000
+2  316.102436 -46.738196    0.5    0.5           i              gri               gri       True            False           False               False         coord    43.897564    []          DES2105-4623                      1.0         50.0       10.0      316.102436      -46.738196
+3  320.071929 -57.211821    0.5    0.5           i              gri               gri       True            False           False               False         coord    39.928071    []          DES2118-5705                      1.0         50.0       10.0      320.071929      -57.211821
+1  324.465129 -56.393361    0.5    0.5           i              gri               gri       True            False           False               False         coord    35.534871    []          DES2135-5622                      1.0         50.0       10.0      324.465129      -56.393361
+0  327.098173 -65.112821    0.5    0.5           i              gri               gri       True            False           False               False         coord    32.901827    []          DES2149-6456                      1.0         50.0       10.0      327.098173      -65.112821
+4  326.738338 -64.671998    0.5    0.5           i              gri               gri       True            False           False               False         coord    33.261662    []          DES2149-6456                      1.0         50.0       10.0      326.738338      -64.671998
+2021-04-14 14:22:09,364 - 0 - INFO     - All processes finished.
+2021-04-14 14:22:09,364 - 0 - INFO     - Processing took (s): 23.88
+2021-04-14 14:22:09,364 - 0 - INFO     - Total file size on disk: 918.67 KB
+2021-04-14 14:22:09,364 - 0 - INFO     - Total number of files: 5

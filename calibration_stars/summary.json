@@ -1,0 +1,158 @@
+{
+  "options": {
+    "colors_fits": "i",
+    "db": "dessci",
+    "jobid": "2b967534b671493aacc34f017f81c7ad",
+    "make_fits": true,
+    "make_rgb_lupton": false,
+    "make_rgb_stiff": false,
+    "release": "Y3A2",
+    "username": "rmorgan",
+    "xsize": 0.5,
+    "ysize": 0.5,
+    "tiledir": "auto"
+  },
+  "cutouts": [
+    {
+      "RA": 316.102436,
+      "DEC": -46.738196,
+      "XSIZE": 0.5,
+      "YSIZE": 0.5,
+      "COLORS_FITS": "i",
+      "RGB_STIFF_COLORS": "gri",
+      "RGB_LUPTON_COLORS": "gri",
+      "MAKE_FITS": true,
+      "MAKE_RGB_LUPTON": false,
+      "MAKE_RGB_STIFF": false,
+      "DISCARD_FITS_FILES": false,
+      "POSITION_TYPE": "coord",
+      "RA_ADJUSTED": 43.897564,
+      "FILES": [
+        "DESJ210424.5846-464417.5056_i.fits"
+      ],
+      "TILEDIR": "/des003/desarchive/multiepoch/Y3A1/r2601/DES2105-4623/p01/coadd/",
+      "TILENAME": "DES2105-4623",
+      "SEXAGECIMAL": "DESJ210424.5846-464417.5056",
+      "RGB_MINIMUM": 1.0,
+      "RGB_STRETCH": 50.0,
+      "RGB_ASINH": 10.0,
+      "ALPHAWIN_J2000": 316.102436,
+      "DELTAWIN_J2000": -46.738196
+    },
+    {
+      "RA": 320.071929,
+      "DEC": -57.211821,
+      "XSIZE": 0.5,
+      "YSIZE": 0.5,
+      "COLORS_FITS": "i",
+      "RGB_STIFF_COLORS": "gri",
+      "RGB_LUPTON_COLORS": "gri",
+      "MAKE_FITS": true,
+      "MAKE_RGB_LUPTON": false,
+      "MAKE_RGB_STIFF": false,
+      "DISCARD_FITS_FILES": false,
+      "POSITION_TYPE": "coord",
+      "RA_ADJUSTED": 39.928071,
+      "FILES": [
+        "DESJ212017.2630-571242.5556_i.fits"
+      ],
+      "TILEDIR": "/des003/desarchive/multiepoch/Y3A1/r2601/DES2118-5705/p01/coadd/",
+      "TILENAME": "DES2118-5705",
+      "SEXAGECIMAL": "DESJ212017.2630-571242.5556",
+      "RGB_MINIMUM": 1.0,
+      "RGB_STRETCH": 50.0,
+      "RGB_ASINH": 10.0,
+      "ALPHAWIN_J2000": 320.071929,
+      "DELTAWIN_J2000": -57.211821
+    },
+    {
+      "RA": 324.465129,
+      "DEC": -56.393361,
+      "XSIZE": 0.5,
+      "YSIZE": 0.5,
+      "COLORS_FITS": "i",
+      "RGB_STIFF_COLORS": "gri",
+      "RGB_LUPTON_COLORS": "gri",
+      "MAKE_FITS": true,
+      "MAKE_RGB_LUPTON": false,
+      "MAKE_RGB_STIFF": false,
+      "DISCARD_FITS_FILES": false,
+      "POSITION_TYPE": "coord",
+      "RA_ADJUSTED": 35.534871,
+      "FILES": [
+        "DESJ213751.6310-562336.0996_i.fits"
+      ],
+      "TILEDIR": "/des003/desarchive/multiepoch/Y3A1/r2601/DES2135-5622/p01/coadd/",
+      "TILENAME": "DES2135-5622",
+      "SEXAGECIMAL": "DESJ213751.6310-562336.0996",
+      "RGB_MINIMUM": 1.0,
+      "RGB_STRETCH": 50.0,
+      "RGB_ASINH": 10.0,
+      "ALPHAWIN_J2000": 324.465129,
+      "DELTAWIN_J2000": -56.393361
+    },
+    {
+      "RA": 327.098173,
+      "DEC": -65.112821,
+      "XSIZE": 0.5,
+      "YSIZE": 0.5,
+      "COLORS_FITS": "i",
+      "RGB_STIFF_COLORS": "gri",
+      "RGB_LUPTON_COLORS": "gri",
+      "MAKE_FITS": true,
+      "MAKE_RGB_LUPTON": false,
+      "MAKE_RGB_STIFF": false,
+      "DISCARD_FITS_FILES": false,
+      "POSITION_TYPE": "coord",
+      "RA_ADJUSTED": 32.901827,
+      "FILES": [
+        "DESJ214823.5615-650646.1556_i.fits"
+      ],
+      "TILEDIR": "/des003/desarchive/multiepoch/Y3A1/r2601/DES2149-6456/p01/coadd/",
+      "TILENAME": "DES2149-6456",
+      "SEXAGECIMAL": "DESJ214823.5615-650646.1556",
+      "RGB_MINIMUM": 1.0,
+      "RGB_STRETCH": 50.0,
+      "RGB_ASINH": 10.0,
+      "ALPHAWIN_J2000": 327.098173,
+      "DELTAWIN_J2000": -65.112821
+    },
+    {
+      "RA": 326.738338,
+      "DEC": -64.671998,
+      "XSIZE": 0.5,
+      "YSIZE": 0.5,
+      "COLORS_FITS": "i",
+      "RGB_STIFF_COLORS": "gri",
+      "RGB_LUPTON_COLORS": "gri",
+      "MAKE_FITS": true,
+      "MAKE_RGB_LUPTON": false,
+      "MAKE_RGB_STIFF": false,
+      "DISCARD_FITS_FILES": false,
+      "POSITION_TYPE": "coord",
+      "RA_ADJUSTED": 33.261662,
+      "FILES": [
+        "DESJ214657.2011-644019.1928_i.fits"
+      ],
+      "TILEDIR": "/des003/desarchive/multiepoch/Y3A1/r2601/DES2149-6456/p01/coadd/",
+      "TILENAME": "DES2149-6456",
+      "SEXAGECIMAL": "DESJ214657.2011-644019.1928",
+      "RGB_MINIMUM": 1.0,
+      "RGB_STRETCH": 50.0,
+      "RGB_ASINH": 10.0,
+      "ALPHAWIN_J2000": 326.738338,
+      "DELTAWIN_J2000": -64.671998
+    }
+  ],
+  "query_time": "0.83",
+  "unmatched_positions": {
+    "coord": {
+      "RA": [],
+      "DEC": []
+    },
+    "coadd": []
+  },
+  "processing_time": "23.88",
+  "size_on_disk": "918.67 KB",
+  "number_of_files": 5
+}
